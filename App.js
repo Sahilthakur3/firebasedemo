@@ -38,7 +38,7 @@ function HomeScreen({ navigation }) {
         age: 20,
       })
       .then(() => {
-        console.log('User !');
+        console.log('User added!');
       });
 
 
