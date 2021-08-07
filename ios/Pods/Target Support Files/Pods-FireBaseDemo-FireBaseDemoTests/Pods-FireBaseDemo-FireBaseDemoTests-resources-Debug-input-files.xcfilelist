@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-FireBaseDemo-FireBaseDemoTests/Pods-FireBaseDemo-FireBaseDemoTests-resources.sh
+${PODS_ROOT}/GoogleSignIn/Resources/GoogleSignIn.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/React-Core/AccessibilityResources.bundle
+${PODS_CONFIGURATION_BUILD_DIR}/gRPC-C++/gRPCCertificates-Cpp.bundle

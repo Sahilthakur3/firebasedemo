@@ -1,0 +1,6 @@
+module Pods_FireBaseDemo_FireBaseDemoTests {
+  umbrella header "Pods-FireBaseDemo-FireBaseDemoTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
